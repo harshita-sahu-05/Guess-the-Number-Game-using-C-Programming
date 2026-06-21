@@ -88,7 +88,7 @@ Through this project, I gained practical experience in:
 ---
 
 ## Author
-**Aakash Choudhary**  
+**Harshita Sahu**  
 B.Tech (Computer Science & Engineering)
 
 ⭐ If you found this project interesting, feel free to explore and contribute!
